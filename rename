@@ -1,0 +1,24 @@
+\(?((x|X)?(\d+)(\.?\d+)?)((\s?倍率?)|(x|X))\)?@x$1x
+\*@ 原生
+\^@ 解锁
+\!@ UDP
+\+@ EMBY
+\$@ x10x
+\#@ x2x
+!!GROUPID=0!!^@A·
+!!GROUPID=1!!^@B·
+!!GROUPID=2!!^@C·
+HK@香港
+HKG@香港
+TP@台湾
+SG@新加坡
+JP@日本
+US@美国
+Hong Kong@香港
+Taiwan@台湾
+United States@美国
+Singapore@新加坡
+HYSTERIA@hy
+-UDP@
+油管绵阿羊_@
+📡 PING-000.00-MS@
