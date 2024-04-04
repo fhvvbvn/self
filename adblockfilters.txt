@@ -1,6 +1,6 @@
 !
 ! Title: Self-AdBlock
-! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
+! Source: https://github.com/fhvvbvn/self/raw/main/adblockfilters.txt
 !
 $$script[wildcard="*adcashMacros*zoneSett*"][min-length="2000"][max-length="25000"]
 $cookie=/^adb\$|adb\.key/,domain=iprima.cz
