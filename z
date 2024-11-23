@@ -1,0 +1,13 @@
+proxies:
+  - {name: "🇨🇦 CA, Vancouver", server: 44.244.25.243, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇭🇰 HK, Kowloon", server: 43.203.249.198, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇭🇰 HK, Los Angeles", server: 34.215.160.52, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇭🇰 HK, New Territories", server: 13.209.16.115, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇯🇵 JP, Osaka", server: 43.203.173.72, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇯🇵 JP, Tokyo", server: 18.183.217.223, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇯🇵 JP, Tokyo 2", server: 13.124.203.141, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇰🇷 KR, Incheon", server: 54.248.142.136, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇸🇬 SG, Singapore", server: 43.206.238.246, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇹🇼 TW, Taipei-", server: 54.180.157.150, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇺🇸 US, Dallas 2", server: 54.186.178.129, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
+  - {name: "🇺🇸 US, Houston", server: 54.245.4.48, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: true, udp: true}
